@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992092587037",
+    "firebase_url": "https://demopushfcm-f74ae.firebaseio.com",
+    "project_id": "demopushfcm-f74ae",
+    "storage_bucket": "demopushfcm-f74ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992092587037:android:f6f2cefdc7f98f550d32f4",
+        "android_client_info": {
+          "package_name": "com.luanvd.client.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992092587037-4qjjl22jjok6eluq6aeabm8ba94jjre7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZK1db9jkMgzCTj0HpDn4warewdivxQF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992092587037-4qjjl22jjok6eluq6aeabm8ba94jjre7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
